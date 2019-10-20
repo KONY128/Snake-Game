@@ -18,4 +18,4 @@ Download the newest released version of snake game. Run ./SnakeGame directly to 
 
 ### See How AI Snake Eating 🤙
 
-![Game Demonstration](https://github.com/KONY128/SnakeGame/raw/master/altRsc/AutoSnake.gif)
+![Game Demonstration](https://github.com/KONY128/SnakeGame/raw/master/altRes/AutoSnake.gif)
