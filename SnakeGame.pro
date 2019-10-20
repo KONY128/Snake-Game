@@ -57,7 +57,11 @@ HEADERS += \
         SourceCode/SubWindows/GameSettingWindow.h \
         SourceCode/SubWindows/MainMenu.h \
         SourceCode/SubWindows/GameOverWindow.h \
-        SourceCode/MainWindow.h
+        SourceCode/MainWindow.h \
+        ui_GameOverWindow.h \
+        ui_GameSettingWindow.h \
+        ui_MainMenu.h \
+        ui_MainWindow.h
 
 FORMS += \
         SourceCode/SubWindows/GameSettingWindow.ui \
@@ -73,4 +77,13 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 RESOURCES += \
     snakeresource.qrc
 
-DISTFILES +=
+DISTFILES += \
+    SoundEffects/Bomb.wav \
+    SoundEffects/Click.mp3 \
+    SoundEffects/Food.mp3 \
+    SoundEffects/GameStart.mp3 \
+    SoundEffects/Page.wav \
+    SoundEffects/Poo.mp3 \
+    SoundEffects/Potion.mp3 \
+    altRes/AutoSnake.gif \
+    readme.md
