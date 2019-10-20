@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/Image/food">
+        <file alias="apple">Images/Food/apple_ms.png</file>
+        <file alias="bomb">Images/Food/bomb_ms.png</file>
+        <file alias="pineapple">Images/Food/pineapple_ms.png</file>
+        <file alias="poo">Images/Food/poo_wa.png</file>
+        <file alias="goldenPotion">Images/Food/Potion_golden.png</file>
+        <file alias="greenPotion">Images/Food/Potion_green.png</file>
+        <file alias="purplePotion">Images/Food/Potion_purple.png</file>
+        <file alias="redPotion">Images/Food/Potion_red.png</file>
+        <file alias="whitePotion">Images/Food/Potion_white.png</file>
+        <file alias="strawberry">Images/Food/strawberry_ms.png</file>
+        <file alias="watermelon">Images/Food/watermelon_ms.png</file>
+    </qresource>
+    <qresource prefix="/Image">
+        <file alias="wall">Images/wall.jpg</file>
+    </qresource>
+    <qresource prefix="/Image/snake">
+        <file alias="player1">Images/Snake/snakeHead_1.png</file>
+        <file alias="player2">Images/Snake/snakeHead_2.png</file>
+        <file alias="player3">Images/Snake/snakeHead_3.png</file>
+    </qresource>
+    <qresource prefix="/Image/button">
+        <file alias="down">Images/Button/iconDown.png</file>
+        <file alias="left">Images/Button/iconLeft.png</file>
+        <file alias="right">Images/Button/iconRight.png</file>
+        <file alias="up">Images/Button/iconUp.png</file>
+    </qresource>
+</RCC>
