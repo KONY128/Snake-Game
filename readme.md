@@ -25,9 +25,9 @@ Download the newest released version of snake game. Run ./SnakeGame directly to 
 
 ![Game AI Demonstration](https://github.com/KONY128/SnakeGame/raw/master/altRes/AutoSnake.gif)
 
-If players rush together, they all die.
+### What Element We have?
 
-What Element We have?
+If players rush together, they all die.
 
 - Watermelon  🍉 +1000 P
 - Pineapple  🍍 +800 P
@@ -47,3 +47,5 @@ What Element We have?
 ![Settings](https://github.com/KONY128/SnakeGame/raw/master/altRes/Settings.png)
 
 ![Ranking](https://github.com/KONY128/SnakeGame/raw/master/altRes/Ranking.png)
+
+### For More Detailed Inf, Please Read *Snake_Introduction.pdf*
