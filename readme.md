@@ -35,25 +35,25 @@ If players rush together, they all die.
 - Apple  🍎 :                    +100 to your score
 - Bomb 💣 :                     Clear your score
 - S**t 💩 :                        -1000 to your score
-- Rebirth Potion<img src="https://github.com/KONY128/SnakeGame/raw/master/Images/Food/Potion_purple.png" style="width: 25px"/>:       The snake turned back into a baby snake!
-- Halved Potion <img src="https://github.com/KONY128/SnakeGame/raw/master/Images/Food/Potion_red.png" style="width:25px;"/>:       The snake was cut into two pieces！
-- Food Potion <img src="https://github.com/KONY128/SnakeGame/raw/master/Images/Food/Potion_green.png" style="width: 25px;"/> :          Free food is raining all around!
-- Golden Potion <img src="https://github.com/KONY128/SnakeGame/raw/master/Images/Food/Potion_golden.png" style="width: 25px;"/> :      Increase snake's score income for a limited time!
+- Rebirth Potion<img src="https://github.com/KONY128/SnakeGame/raw/master/Images/Food/Potion_purple.png" width="25"/>:       The snake turned back into a baby snake!
+- Halved Potion <img src="https://github.com/KONY128/SnakeGame/raw/master/Images/Food/Potion_red.png" width="25"/>:       The snake was cut into two pieces！
+- Food Potion <img src="https://github.com/KONY128/SnakeGame/raw/master/Images/Food/Potion_green.png" width="25"/> :          Free food is raining all around!
+- Golden Potion <img src="https://github.com/KONY128/SnakeGame/raw/master/Images/Food/Potion_golden.png" width="25"/> :      Increase snake's score income for a limited time!
 
 ### Customize Your Own Game And Push A Local Ranking!
 
 <center>Main View</center>
 
-<img src="https://github.com/KONY128/SnakeGame/raw/master/altRes/Menu.png" style="width: 650px;"/>
+<img src="https://github.com/KONY128/SnakeGame/raw/master/altRes/Menu.png" width="650"/>
 
 
 <center>Settings View</center>
 
-<img src="https://github.com/KONY128/SnakeGame/raw/master/altRes/Settings.png" style="width: 650px;"/>
+<img src="https://github.com/KONY128/SnakeGame/raw/master/altRes/Settings.png" width="650"/>
 
 
 <center>Ranking View</center>
 
-<img src="https://github.com/KONY128/SnakeGame/raw/master/altRes/Ranking.png" style="width: 650px;"/>
+<img src="https://github.com/KONY128/SnakeGame/raw/master/altRes/Ranking.png" width="650"/>
 
 ### For More Detailed Inf, Please Read *Snake_Introduction.pdf*
